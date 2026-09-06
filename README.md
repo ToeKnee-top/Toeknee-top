@@ -7,7 +7,7 @@
 <h2 align="center">hey, I'm <b>Tony</b> ✨</h2>
 
 <p align="center">
-  I am a 14 y/o interested in programming (games), model rocketry, arduino, hardware builds, games, fishing, and cross country.
+  I am a 14 y/o interested in programming (games), model rocketry,<br> arduino, hardware builds, games, fishing, and cross country.
 </p>
 
 <p align="center">
